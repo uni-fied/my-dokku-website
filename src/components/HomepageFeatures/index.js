@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Riset & Development',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Arsip dari hasil Riset & Development Kami bahas pada bagian Section ini,
+        Kami bahas dengan sedemikian rupa agar lebih mudah difahami
       </>
     ),
   },
