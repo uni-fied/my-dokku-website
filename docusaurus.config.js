@@ -75,7 +75,7 @@ const config = {
           },
           {
             to: '/blog', 
-            label: 'Views & Opinions', 
+            label: 'Blog Post', 
             position: 'left'
           },
           {
@@ -88,11 +88,11 @@ const config = {
       },
       footer: {
         logo: {
-          alt: 'Facebook Open Source Logo',
-          src: 'img/logo.svg',
-          href: 'https://opensource.facebook.com',
-          width: 160,
-          height: 51,
+          alt: 'Astronaut Star',
+          src: 'img/astronaut.png',
+          href: '/',
+          width: 55,
+          height: 55,
         },
         style: 'dark',
         copyright: `Copyright © 2022-${new Date().getFullYear()} Asep Septiadi, Inc. Built with Loves ❤️`,
