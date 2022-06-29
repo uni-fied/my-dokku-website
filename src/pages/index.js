@@ -28,6 +28,17 @@ function HomepageHeader() {
   );
 }
 
+function HomepageHeader2() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <header className={clsx('hero hero--primary', styles.heroBanner2)}>
+      <div className="container">
+        <h3 style={{paddingTop: 0.8 + 'em'}} >Build 29072022.2200 - V1.0 BETA - Long Term Support (LTS) 🔥</h3>
+      </div>
+    </header>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -37,6 +48,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <HomepageHeader2 />
       </main>
     </Layout>
   );
