@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Riset & Development',
+    title: 'Research & Development',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Arsip dari hasil Riset & Development Kami bahas pada bagian Section ini,
-        Kami bahas dengan sedemikian rupa agar lebih mudah difahami
+        Kami bahas dengan sedemikian rupa agar lebih mudah difahami.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Integration Tech.',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Merupakan buah hasil riset yang diintegrasikan ke dunia nyata seperti aplikasi yang dapat
+        mempermudah dalam pekerjaan atau yang lainnya.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Results Oriented',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Kami juga menulis kode dari buah pemikiran nyata yang diintegrasikan dalam pekerjaan
+        yang kami tuangkan kedalam bentuk portofolio.
       </>
     ),
   },
