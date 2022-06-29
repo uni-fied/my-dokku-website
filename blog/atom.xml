@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/my-dokku-website/blog</id>
     <title>Jurnal Kodinganku! Blog</title>
-    <updated>2022-07-29T00:00:00.000Z</updated>
+    <updated>2022-06-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/my-dokku-website/blog"/>
     <subtitle>Jurnal Kodinganku! Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Hi, Selamat datang!]]></title>
         <id>welcome</id>
         <link href="https://github.com/my-dokku-website/blog/welcome"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
+        <updated>2022-06-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[1. Apa yang dibahas disini?]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-apa-yang-dibahas-disini">1. Apa yang dibahas disini?<a class="hash-link" href="#1-apa-yang-dibahas-disini" title="Direct link to heading">​</a></h3><p>Beberapa diantaranya tentang <code>koding</code>, <code>issue / bug</code>, <code>informasi</code>, <code>new tech</code>, <code>tutorial</code>, <code>tips &amp; triks</code>, pendangan Kami sebagai penulis maupun dalam bidang pekerjaan atau dalam kehidupan, semua yang Kami share disini merupakan hasil pengalaman pribadi dan semoga bermanfaat untuk kawan-kawan yang membacanya serta banyak lagi.</p>]]></content>
         <author>
