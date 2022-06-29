@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_dokku_website=self.webpackChunkmy_dokku_website||[]).push([[314],{802:e=>{e.exports=JSON.parse('{"label":"announcement of blog","permalink":"/my-dokku-website/blog/tags/announcement-of-blog","allTagsPath":"/my-dokku-website/blog/tags","count":1}')}}]);
