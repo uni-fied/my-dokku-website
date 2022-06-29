@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Jurnal Kodinganku!',
-  tagline: 'Hi, Selamat datang di Jurnal Kodinganku!, Belajar dari pengalaman dan diintegrasikan dalam kehidupan.',
+  tagline: 'Hi, Selamat datang di Jurnal Kodinganku!, Share knowladge, Tutorial, Tips & Trik, Bug Fix & Problem Solving, dan banyak Lagi, Yuk pelajari jurnalnya sekarang. Stay focus & Improve your skill.',
   url: 'https://github.com',
   baseUrl: '/my-dokku-website/',
   onBrokenLinks: 'throw',
