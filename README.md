@@ -1,9 +1,9 @@
-### :books: Archivement & Portofolio
+### :ringed_planet: Archivement & Portofolio
 Jurnal Kodinganku!, Website portofolio saya, hasil dari pengalaman dan riset semua dibahas di platform ini.
 
 <hr />
 
-### Run Project Local
+### :fire: Run Project Local
 
 ```.bash
 npm run start
@@ -11,7 +11,7 @@ npm run start
 
 <hr />
 
-### Deploy Project to GitHub Pages
+### :comet: Deploy Project to GitHub Pages
 Run with `Git Bash CMD` -> kemudian execute command berikut
 
 ```.bash
