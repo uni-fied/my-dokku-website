@@ -17,4 +17,3 @@ Run with `Git Bash CMD` -> kemudian execute command berikut
 ```.bash
 ~/my-dokku-website (master) $: GIT_USER=uni-fied yarn deploy
 ```
-<hr />
