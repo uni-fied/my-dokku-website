@@ -95,7 +95,7 @@ const config = {
           height: 55,
         },
         style: 'dark',
-        copyright: `Copyright © 2022-${new Date().getFullYear()} Asep Septiadi, Inc. Built with Loves ❤️`,
+        copyright: `Copyright © 2022-${new Date().getFullYear()} Asep Septiadi, Built with ❤️`,
       },
       prism: {
         theme: lightCodeTheme,
